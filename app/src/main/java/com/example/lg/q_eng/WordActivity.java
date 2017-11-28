@@ -1,7 +1,7 @@
 package com.example.lg.q_eng;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class WordActivity extends AppCompatActivity {
 
@@ -10,4 +10,5 @@ public class WordActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_word);
     }
+
 }
